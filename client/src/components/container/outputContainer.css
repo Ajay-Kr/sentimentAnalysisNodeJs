@@ -1,0 +1,28 @@
+.output-container {
+  display: inline-block;
+  width: 50%;
+  margin: 0;
+  padding: 40px;
+  border-left: 4px solid rgb(133, 133, 133);
+}
+
+.output-container h3 {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.output-container::after {
+  display: block;
+  position: absolute;
+  top: 18%;
+  content: '';
+  height: 5px;
+  width: 150px;
+  background-color: rgb(157, 157, 157);
+  /* border-radius: 20px; */
+}
+
+.result {
+  margin-left: 10px;
+  padding: 10px;
+}

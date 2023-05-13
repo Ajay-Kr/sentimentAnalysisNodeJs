@@ -1,0 +1,37 @@
+.header {
+  height: 160px;
+  width: 100%;
+  padding: 50px;
+  position: relative;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  border-radius: 10px 10px 0 0;
+}
+
+.header h1 {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 700; color:#202020;
+  text-transform: uppercase;
+  word-spacing: 1px; letter-spacing:2px;
+}
+.header h1 span {
+  margin-top: 40px;
+  text-transform: none;
+  font-size:.55em;
+  font-weight: normal;
+  font-style: italic; font-family: "Playfair Display","Bookman",serif;
+  color:#999; letter-spacing:-0.005em; word-spacing:1px;
+  letter-spacing:none;
+  display: block;
+}
+.header h1:before {
+  position: absolute;
+  left: 0;
+  bottom: 38px;
+  width: 60px;
+  height: 4px;
+  content: "";
+  left: 50%;
+  margin-left: -30px;
+  background-color: #dfdfdf;
+}

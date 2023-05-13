@@ -1,0 +1,10 @@
+### GET
+GET http://localhost:5005/
+
+### POST ANALYSE
+POST http://localhost:5005/analyse
+Content-Type: application/json
+
+{
+  "text": "Die hard fan"
+}
