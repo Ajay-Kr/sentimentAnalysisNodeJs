@@ -50,7 +50,7 @@ npm run dev
 Here are some screenshots of the project.
 The home page...
 
-![Home Page](https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/4c7ba3f1-4051-4308-9b27-bc3b14445bc5 | width=150)
+<img src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/4c7ba3f1-4051-4308-9b27-bc3b14445bc5" data-canonical-src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/4c7ba3f1-4051-4308-9b27-bc3b14445bc5" width="200" />
 
 On clicking the Run button, if the input is not empty the api is called...
 
