@@ -49,6 +49,7 @@ npm run dev
 
 Here are some screenshots of the project.
 The home page...
+![Home Page]
 <img 
      src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/4c7ba3f1-4051-4308-9b27-bc3b14445bc5" 
      data-canonical-src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/4c7ba3f1-4051-4308-9b27-bc3b14445bc5" 
@@ -58,6 +59,7 @@ The home page...
 On clicking the Run button, if the input is not empty the api is called...
 
 Empty input...
+
 ![Empty Input]
 <img 
      src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/fc45566f-73be-4f45-a337-496fabbd62d4" 
@@ -66,6 +68,8 @@ Empty input...
 />
 
 Processing...
+
+![Processing]
 <img 
      src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/c51fe0e5-cb17-44dd-b491-23147656f967" 
      data-canonical-src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/c51fe0e5-cb17-44dd-b491-23147656f967" 
@@ -76,7 +80,7 @@ On receiving the result output is shown...
 
 ![Result]
 <img 
-     src='https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/801cefb0-f288-4577-8d5d-66ed759d5f7c"
+     src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/801cefb0-f288-4577-8d5d-66ed759d5f7c"
      data-canonical-src="https://github.com/Ajay-Kr/sentimentAnalysisNodeJs/assets/55989070/801cefb0-f288-4577-8d5d-66ed759d5f7c"
      width="700" 
 />                
